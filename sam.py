@@ -16,7 +16,7 @@ async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
 
 def main():
     # توکن ربات خود را اینجا وارد کنید
-    TOKEN = "8525496066:AAHfkEhChRG76u3GK7pwTYxBzCG28ebbvSw"
+    TOKEN = "8525496066:AAFezIaZLFQEZId1l-jr3LRui2EvDYkKosI"
     
     # ساخت اپلیکیشن ربات
     application = ApplicationBuilder().token(TOKEN).build()
